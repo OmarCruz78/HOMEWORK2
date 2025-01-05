@@ -21,6 +21,14 @@ nav{
     align-items: center;
     text-align: center;
     line-height: 2em;
+    display: inline-block;
+    width: 80%;
+ 
+}
+nav img {
+    width: 10%;
+    position: relative;
+    top: 20px;
 }
 
 a{
@@ -39,12 +47,10 @@ footer{
 footer a{
     color: #ffffff;
 }
-
+/*
  li{
-   display: inline-block;
-   width: 200px;
- }
-
+   }
+*/
 
  h1{
      text-align: center;
