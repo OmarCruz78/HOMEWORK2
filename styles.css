@@ -29,6 +29,7 @@ nav img {
     width: 10%;
     position: relative;
     top: 10px;
+    height: 10%;
 }
 
 a{
@@ -65,10 +66,12 @@ footer a{
   grid-template-columns: 40% 40%;
   justify-content: center;
   align-items: center;
-  
+  row-gap: 1em;
+
  }
 
  .container img{
 
     width:100%;
+
  }
