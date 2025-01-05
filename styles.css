@@ -6,17 +6,17 @@
 body{
   font-family: Georgia, serif; 
   font-size: 20px;
-  color: #070707;
+  color: #079907;
   background-color: #FFFEDE;
 }
 
 header{
-background-color: #000099;
-color: #ffffff;
+background-color: #F5F5D5;
+color: #070707;
 }
 
 nav{
-    background-color: #050505;
+    background-color: #02ff02;
     color: #F5F5D5;
     align-items: center;
     text-align: center;
@@ -30,19 +30,20 @@ nav img {
     position: relative;
     top: 10px;
     height: 10%;
+    border-radius: 25px;
 }
 
 a{
-    color: #612105;
+    color: #02ff02;
 }
 main{
-    background-color: #dddddd;
-    color: #00008f;
+    background-color: #F5F5D5;
+    color: #079907;
 }
 
 footer{
-    color: #dddddd;
-    background-color: #00008f;
+    color: #F5F5D5;
+    background-color: #079907;
 }
 
 footer a{
