@@ -68,7 +68,7 @@ footer a{
   justify-content: center;
   align-items: center;
   row-gap: 1em;
-
+  column-gap: 1em;
  }
 
  .container img{
