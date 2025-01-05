@@ -25,7 +25,7 @@ nav{
     width: 80%;
  
 }
-nav img {
+header img {
     width: 10%;
     position: relative;
     top: 10px;
@@ -34,7 +34,7 @@ nav img {
 }
 
 a{
-    color: #02ff02;
+    color: #F5F5D5;
 }
 main{
     background-color: #F5F5D5;
