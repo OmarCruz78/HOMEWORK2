@@ -21,14 +21,14 @@ nav{
     align-items: center;
     text-align: center;
     line-height: 2em;
-    display: inline;
+    display: inline-block;
     width: 80%;
  
 }
 nav img {
     width: 10%;
     position: relative;
-    top: 20px;
+    top: 10px;
 }
 
 a{
@@ -58,4 +58,14 @@ footer a{
 
  p{
      line-height: 2em;
+ }
+
+ .container{
+  display: grid;
+  grid-template-columns: 40% 40%;
+ }
+
+ .container img{
+
+    width:100%;
  }
