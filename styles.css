@@ -10,15 +10,23 @@ body{
   background-color: #FFFEDE;
 }
 
+    a:link {
+        text-decoration: none;
+      }
+      
+
+a p{
+    text-align: center;
+    color: #079907
+}
 header{
 background-color: #F5F5D5;
 color: #070707;
 }
 
 nav{
-    background-color: #02ff02;
+    background-color: #079907;
     color: #F5F5D5;
-    align-items: center;
     text-align: center;
     line-height: 2em;
     display: inline-block;
@@ -72,6 +80,7 @@ footer a{
  }
 
  .container img{
+    height: 30%;
 
     width:100%;
 
