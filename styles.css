@@ -29,7 +29,7 @@ nav{
     color: #F5F5D5;
     text-align: center;
     line-height: 2em;
-    display: inline-block;
+    /*display: inline-block;*/
     width: 80%;
  
 }
