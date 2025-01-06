@@ -57,7 +57,9 @@ main{
     background-color: #F5F5D5;
     color: #079907;
 }
-
+main > a {
+color:#079907;  
+}
 footer{
     color: #070707;
     background-color: #079907;
