@@ -11,39 +11,33 @@ body{
 }
 
     a:link {
-        /*text-decoration: none;*/
+        text-decoration: none;
       }
       
 
 a p{
     text-align: center;
-    color: #260303;
-    font-family: Georgia, serif;
+    color: #070707;
 }
 header{
 background-color: #008800;
-color: #260303;
-border-radius: 10px;
-padding: 0.5em;
+color: #070707;
 }
 
 nav{
    
-    color: #260303;
+    color: #ffffff;
     text-align: center;
     line-height: 2em;
     display: inline-block;
     width: 80%;
-    align-items: center;
+    align-items: stretch;
     height: auto;
 }
 
 nav>li{
 
     display: inline-block;
-    font-size: 45px;
-    padding: 2em;
-    margin: 2em;
 }
 header>img {
     width: 18%;
@@ -55,7 +49,7 @@ header>img {
 
 
 a{
-    color: #260303;
+    color: #ffffff;
 }
 main{
     background-color: #F5F5D5;
@@ -63,14 +57,12 @@ main{
 }
 
 footer{
-    padding: 1em;
-    color: #F5F5D5;
+    color: #070707;
     background-color: #079907;
-    border-radius: 20px;
 }
 
 footer a{
-    color: #ff2200;
+    color: #ffffff;
 }
 
  li{
@@ -94,14 +86,12 @@ footer a{
   align-items: center;
   row-gap: 1em;
   column-gap: 1em;
-  margin: 1em auto;
  }
 
  .container img{
-    height: 100%;
+    height: 200px;
 
     width:100%;
-    border-radius: 25px;
  }
 
  .flex{
@@ -111,8 +101,11 @@ footer a{
 }
 
 .flex > img{
-    border-radius: 10px;
+    border-radius: 25px;
     margin: 10px;
   padding: 10px;
+  height: 100;
+  justify-content: center;
 
 }
+
