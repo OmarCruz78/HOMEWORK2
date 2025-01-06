@@ -17,30 +17,33 @@ body{
 
 a p{
     text-align: center;
-    color: #049904;
+    color: #260303;
     font-family: Georgia, serif;
 }
 header{
 background-color: #008800;
-color: #070707;
+color: #260303;
 border-radius: 10px;
 padding: 0.5em;
 }
 
 nav{
    
-    color: #F5F5D5;
+    color: #260303;
     text-align: center;
     line-height: 2em;
     display: inline-block;
     width: 80%;
-    align-items: stretch;
+    align-items: center;
     height: auto;
 }
 
 nav>li{
 
     display: inline-block;
+    font-size: 45px;
+    padding: 2em;
+    margin: 2em;
 }
 header>img {
     width: 18%;
@@ -52,7 +55,7 @@ header>img {
 
 
 a{
-    color: #F5F5D5;
+    color: #260303;
 }
 main{
     background-color: #F5F5D5;
